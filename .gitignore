@@ -13,3 +13,5 @@ profile.conv
 go.work
 go.work.sum
 .env
+
+passwd
